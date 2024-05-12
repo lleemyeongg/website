@@ -95,6 +95,12 @@ P {
 
 @media screen and (max-width: 900px) {
 
+	body {
+		background-color: darkslategray;
+		margin-top:100px;
+	}
+
+
 	h1 {
 		text-align: center;
 		margin: 10px;
